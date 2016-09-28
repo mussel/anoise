@@ -1,0 +1,122 @@
+# Galician translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-04-26 19:10+0200\n"
+"PO-Revision-Date: 2015-04-18 01:03+0000\n"
+"Last-Translator: Marcos Lans <Unknown>\n"
+"Language-Team: Galician <gl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-04-27 05:53+0000\n"
+"X-Generator: Launchpad (build 17430)\n"
+
+#: ../anoise/anoise.py:69
+msgid "Coffee Shop"
+msgstr "Coffee Shop"
+
+#: ../anoise/anoise.py:69
+msgid "Fire"
+msgstr "Lume"
+
+#: ../anoise/anoise.py:69
+msgid "Forest"
+msgstr "Monte"
+
+#: ../anoise/anoise.py:69
+msgid "Night"
+msgstr "Noite"
+
+#: ../anoise/anoise.py:69
+msgid "Rain"
+msgstr "Choiva"
+
+#: ../anoise/anoise.py:69
+msgid "River"
+msgstr "Río"
+
+#: ../anoise/anoise.py:69
+msgid "Sea"
+msgstr "Mar"
+
+#: ../anoise/anoise.py:69
+msgid "Storm"
+msgstr "Tormenta"
+
+#: ../anoise/anoise.py:69
+msgid "Wind"
+msgstr "Vento"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Son ambiental"
+
+#: ../anoise.desktop.in.h:2
+msgid "Ambient Noise Player"
+msgstr "Reprodutor Ambient Noise"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "Axustes de ANoise"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Parar en"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minutos"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"Pechar o PC automaticamente despois de 60 m. executando esta orde:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Temporizador:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Iniciar canda o sistema"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Iniciar:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more sounds online..."
+msgstr ""
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Sons:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Doar?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Grazas por adiantado!"
+
+#: ../DELETE_extra_translations/anoise.ui.h:1
+msgid "_File"
+msgstr "_Ficheiro"
+
+#: ../DELETE_extra_translations/anoise.ui.h:2
+msgid "_Edit"
+msgstr "_Editar"
+
+#: ../DELETE_extra_translations/anoise.ui.h:3
+msgid "_Help"
+msgstr "_Axuda"

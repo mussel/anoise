@@ -1,0 +1,120 @@
+# Esperanto translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-04-26 19:10+0200\n"
+"PO-Revision-Date: 2015-04-20 19:44+0000\n"
+"Last-Translator: Adolfo Jayme <fitoschido@gmail.com>\n"
+"Language-Team: Esperanto <eo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-04-27 05:53+0000\n"
+"X-Generator: Launchpad (build 17430)\n"
+
+#: ../anoise/anoise.py:69
+msgid "Coffee Shop"
+msgstr ""
+
+#: ../anoise/anoise.py:69
+msgid "Fire"
+msgstr "Fajro"
+
+#: ../anoise/anoise.py:69
+msgid "Forest"
+msgstr "Arbaro"
+
+#: ../anoise/anoise.py:69
+msgid "Night"
+msgstr "Nokto"
+
+#: ../anoise/anoise.py:69
+msgid "Rain"
+msgstr "Pluvo"
+
+#: ../anoise/anoise.py:69
+msgid "River"
+msgstr "Rivero"
+
+#: ../anoise/anoise.py:69
+msgid "Sea"
+msgstr ""
+
+#: ../anoise/anoise.py:69
+msgid "Storm"
+msgstr ""
+
+#: ../anoise/anoise.py:69
+msgid "Wind"
+msgstr "Vento"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr ""
+
+#: ../anoise.desktop.in.h:2
+msgid "Ambient Noise Player"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minutoj"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more sounds online..."
+msgstr ""
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr ""
+
+#: ../DELETE_extra_translations/anoise.ui.h:1
+msgid "_File"
+msgstr "_Dosiero"
+
+#: ../DELETE_extra_translations/anoise.ui.h:2
+msgid "_Edit"
+msgstr ""
+
+#: ../DELETE_extra_translations/anoise.ui.h:3
+msgid "_Help"
+msgstr "_Helpo"
