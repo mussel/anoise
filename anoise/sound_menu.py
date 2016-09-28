@@ -224,6 +224,7 @@ class SoundMenuControls(dbus.service.Object):
             'CanGoPrevious':True,
             'HasTrackList': False,
             'DesktopEntry': self.desktop_name,
+            'Identity':     'ANoise',
         } # Fixed #1440061
         #return [DesktopEntry, PlaybackStatus, MetaData]
 
